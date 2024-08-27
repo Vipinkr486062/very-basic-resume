@@ -1,2 +1,2 @@
-[view Hosted Resume>(https://github.com/Vipinkr486062/very-basic-resume/
+[view Hosted Resume>(https://vipinkr486062.github.io/very-basic-resume/resume/index.html
 )
